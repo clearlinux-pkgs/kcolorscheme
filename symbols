@@ -1,56 +1,9 @@
-libKF6ColorScheme.so.6:KColorScheme::adjustBackground(QPalette&, KColorScheme::BackgroundRole, QPalette::ColorRole, KColorScheme::ColorSet, QExplicitlySharedDataPointer<KSharedConfig>)
-libKF6ColorScheme.so.6:KColorScheme::adjustForeground(QPalette&, KColorScheme::ForegroundRole, QPalette::ColorRole, KColorScheme::ColorSet, QExplicitlySharedDataPointer<KSharedConfig>)
-libKF6ColorScheme.so.6:KColorScheme::isColorSetSupported(QExplicitlySharedDataPointer<KSharedConfig> const&, KColorScheme::ColorSet)
-libKF6ColorScheme.so.6:KColorScheme::createApplicationPalette(QExplicitlySharedDataPointer<KSharedConfig> const&)
-libKF6ColorScheme.so.6:KColorScheme::shade(QColor const&, KColorScheme::ShadeRole)
-libKF6ColorScheme.so.6:KColorScheme::shade(QColor const&, KColorScheme::ShadeRole, double, double)
-libKF6ColorScheme.so.6:KColorScheme::contrastF(QExplicitlySharedDataPointer<KSharedConfig> const&)
-libKF6ColorScheme.so.6:KColorScheme::KColorScheme(QPalette::ColorGroup, KColorScheme::ColorSet, QExplicitlySharedDataPointer<KSharedConfig>)
 libKF6ColorScheme.so.6:KColorScheme::KColorScheme(KColorScheme&&)
-libKF6ColorScheme.so.6:KColorScheme::KColorScheme(KColorScheme const&)
-libKF6ColorScheme.so.6:KColorScheme::KColorScheme(QPalette::ColorGroup, KColorScheme::ColorSet, QExplicitlySharedDataPointer<KSharedConfig>)
-libKF6ColorScheme.so.6:KColorScheme::KColorScheme(KColorScheme&&)
-libKF6ColorScheme.so.6:KColorScheme::KColorScheme(KColorScheme const&)
-libKF6ColorScheme.so.6:KColorScheme::~KColorScheme()
-libKF6ColorScheme.so.6:KColorScheme::~KColorScheme()
-libKF6ColorScheme.so.6:KColorScheme::~KColorScheme()
 libKF6ColorScheme.so.6:KColorScheme::operator=(KColorScheme&&)
-libKF6ColorScheme.so.6:KColorScheme::operator=(KColorScheme const&)
-libKF6ColorScheme.so.6:KStatefulBrush::KStatefulBrush(KColorScheme::ColorSet, KColorScheme::BackgroundRole, QExplicitlySharedDataPointer<KSharedConfig>)
-libKF6ColorScheme.so.6:KStatefulBrush::KStatefulBrush(KColorScheme::ColorSet, KColorScheme::DecorationRole, QExplicitlySharedDataPointer<KSharedConfig>)
-libKF6ColorScheme.so.6:KStatefulBrush::KStatefulBrush(KColorScheme::ColorSet, KColorScheme::ForegroundRole, QExplicitlySharedDataPointer<KSharedConfig>)
-libKF6ColorScheme.so.6:KStatefulBrush::KStatefulBrush(QBrush const&, QExplicitlySharedDataPointer<KSharedConfig>)
-libKF6ColorScheme.so.6:KStatefulBrush::KStatefulBrush(QBrush const&, QBrush const&, QExplicitlySharedDataPointer<KSharedConfig>)
-libKF6ColorScheme.so.6:KStatefulBrush::KStatefulBrush(KStatefulBrush const&)
-libKF6ColorScheme.so.6:KStatefulBrush::KStatefulBrush()
-libKF6ColorScheme.so.6:KStatefulBrush::KStatefulBrush(KColorScheme::ColorSet, KColorScheme::BackgroundRole, QExplicitlySharedDataPointer<KSharedConfig>)
-libKF6ColorScheme.so.6:KStatefulBrush::KStatefulBrush(KColorScheme::ColorSet, KColorScheme::DecorationRole, QExplicitlySharedDataPointer<KSharedConfig>)
-libKF6ColorScheme.so.6:KStatefulBrush::KStatefulBrush(KColorScheme::ColorSet, KColorScheme::ForegroundRole, QExplicitlySharedDataPointer<KSharedConfig>)
-libKF6ColorScheme.so.6:KStatefulBrush::KStatefulBrush(QBrush const&, QExplicitlySharedDataPointer<KSharedConfig>)
-libKF6ColorScheme.so.6:KStatefulBrush::KStatefulBrush(QBrush const&, QBrush const&, QExplicitlySharedDataPointer<KSharedConfig>)
-libKF6ColorScheme.so.6:KStatefulBrush::KStatefulBrush(KStatefulBrush const&)
-libKF6ColorScheme.so.6:KStatefulBrush::KStatefulBrush()
-libKF6ColorScheme.so.6:KStatefulBrush::~KStatefulBrush()
-libKF6ColorScheme.so.6:KStatefulBrush::~KStatefulBrush()
-libKF6ColorScheme.so.6:KStatefulBrush::operator=(KStatefulBrush const&)
-libKF6ColorScheme.so.6:KColorSchemeManager::qt_metacall(QMetaObject::Call, int, void**)
-libKF6ColorScheme.so.6:KColorSchemeManager::qt_metacast(char const*)
-libKF6ColorScheme.so.6:KColorSchemeManager::activateScheme(QModelIndex const&)
+libKF6ColorScheme.so.6:KColorScheme::~KColorScheme()
+libKF6ColorScheme.so.6:KColorSchemeManager::KColorSchemeManager(QObject*)
+libKF6ColorScheme.so.6:KColorSchemeManager::instance()
 libKF6ColorScheme.so.6:KColorSchemeManager::setAutosaveChanges(bool)
-libKF6ColorScheme.so.6:KColorSchemeManager::KColorSchemeManager(QObject*)
-libKF6ColorScheme.so.6:KColorSchemeManager::KColorSchemeManager(QObject*)
 libKF6ColorScheme.so.6:KColorSchemeManager::~KColorSchemeManager()
-libKF6ColorScheme.so.6:KColorSchemeManager::~KColorSchemeManager()
-libKF6ColorScheme.so.6:KColorSchemeManager::~KColorSchemeManager()
-libKF6ColorScheme.so.6:KColorScheme::background(KColorScheme::BackgroundRole) const
-libKF6ColorScheme.so.6:KColorScheme::decoration(KColorScheme::DecorationRole) const
-libKF6ColorScheme.so.6:KColorScheme::foreground(KColorScheme::ForegroundRole) const
-libKF6ColorScheme.so.6:KColorScheme::shade(KColorScheme::ShadeRole) const
-libKF6ColorScheme.so.6:KColorScheme::operator==(KColorScheme const&) const
-libKF6ColorScheme.so.6:KStatefulBrush::brush(QPalette::ColorGroup) const
-libKF6ColorScheme.so.6:KStatefulBrush::brush(QPalette const&) const
-libKF6ColorScheme.so.6:KColorSchemeManager::metaObject() const
-libKF6ColorScheme.so.6:KColorSchemeManager::activeSchemeId() const
-libKF6ColorScheme.so.6:KColorSchemeManager::indexForScheme(QString const&) const
-libKF6ColorScheme.so.6:KColorSchemeManager::saveSchemeToConfigFile(QString const&) const
-libKF6ColorScheme.so.6:KColorSchemeManager::model() const
+libKF6ColorScheme.so.6:KStatefulBrush::KStatefulBrush()
+libKF6ColorScheme.so.6:KStatefulBrush::~KStatefulBrush()
